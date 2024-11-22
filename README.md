@@ -1,5 +1,8 @@
 # Tetris Game in Python
 
+![Tetris Screenshot](https://i.imgur.com/mMdf5nv.png)
+
+
 Dies ist eine einfache Implementierung des klassischen Tetris-Spiels in Python mit der `pygame`-Bibliothek. Das Spiel unterstützt Level, steigende Schwierigkeitsgrade und die grundlegenden Tetris-Funktionen.
 
 ## Funktionsweise
