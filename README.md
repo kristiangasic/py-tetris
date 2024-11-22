@@ -33,7 +33,7 @@ Falls noch nicht geschehen, lade Python von der offiziellen Seite herunter und i
 Installiere die `pygame`-Bibliothek mit pip:
 
 ```bash
-pip install pygame
+pip3 install pygame
 ```
 
 ## Ausführen des Spiels
@@ -41,8 +41,8 @@ pip install pygame
 1. Lade das Repository herunter oder klone es:
 
 ```bash
-git clone https://github.com/dein-benutzername/tetris-python.git
-cd tetris-python
+git clone https://github.com/kristiangasic/py-tetris.git
+cd py-tetris
 ```
 
 2. Führe das Spiel aus:
